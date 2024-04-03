@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: 696960135893.dkr.ecr.eu-west-1.amazonaws.com/nodejs-demo-postgredb
-  tag: ''
+  tag: 9d2d2f56a990e105b5d2f17ecc52f4e6ae9c7e44
   pullPolicy: Always
 
 service:
